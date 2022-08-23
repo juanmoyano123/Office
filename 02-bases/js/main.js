@@ -2,5 +2,5 @@
 
 	"use strict";
 
-
+/* lorem */
 })(jQuery);
